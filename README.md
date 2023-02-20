@@ -1,4 +1,4 @@
-# 🏄‍♂️ Gregory Navasarkian
+# 🧑‍💻 Gregory Navasarkian
 
 **`Software Engineering Student`**
 
