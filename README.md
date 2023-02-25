@@ -27,3 +27,6 @@
 
 ![](https://github-readme-stats-gregorynavasarkian.vercel.app/api/top-langs/?username=gregorynavasarkian)
 ![Gregory's GitHub stats](https://github-readme-stats-gregorynavasarkian.vercel.app/api?username=gregorynavasarkian&show_icons=true&theme=gruvbox)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorynavasarkian)
+![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregorynavasarkian&show_icons=true&theme=gruvbox)
+-->
