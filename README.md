@@ -1,6 +1,6 @@
 # 🧑‍💻 Gregory Navasarkian
 
-**`Software Engineering Student`**
+**`Software Engineer`**
 
 ---
 
