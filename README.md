@@ -24,5 +24,5 @@
 
 ### 📊 Stats
 
-[![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoryNavasarkian&show_icons=true&theme=transparent&line_height=24&card_width=410)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryNavasarkian&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
+![Gregory's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GregoryNavasarkian&show_icons=true&bg_color=00000000&hide_border=true&line_height=24&card_width=410)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GregoryNavasarkian&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&card_width=360)
