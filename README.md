@@ -51,7 +51,8 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GregoryNavasarkian&show_icons=true&theme=nord&line_height=21&card_width=380&card_height=200" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GregoryNavasarkian&layout=compact&langs_count=9&theme=nord&card_width=360" />
-</p>
+[![GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=GregoryNavasarkian&show_icons=true&theme=nord&line_height=20&card_width=450\&rank_icon=percentile#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-fast.vercel.app/api?username=GregoryNavasarkian&show_icons=true&theme=default&line_height=20&card_width=450\&rank_icon=percentile#gh-light-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-light-mode-only)
+
+[![GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api/top-langs?username=GregoryNavasarkian&layout=compact&show_icons=true&theme=nord&card_width=450&hide=CMake,css,html#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-fast.vercel.app/api/top-langs?username=GregoryNavasarkian&layout=compact&show_icons=true&theme=default&card_width=450&hide=CMake,css,html#gh-light-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-light-mode-only)
